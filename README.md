@@ -1,7 +1,8 @@
 # esp32_facerec
 a mini project for future career
-## File structure 
+## File structure
 
+```console
 esp32_facerec/
 ├── README.md
 ├── .env.example
@@ -54,3 +55,6 @@ esp32_facerec/
 └── tests/
     ├── test_detector.py
     └── test_matcher.py
+```
+
+## 
